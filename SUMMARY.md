@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [明确问题](明确问题.md)
     * [获取问题](获取问题.md)
         * [问题-P1](p1.md)
