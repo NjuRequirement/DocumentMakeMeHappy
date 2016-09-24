@@ -5,7 +5,7 @@
     * [P1](p1.md)
     * [P9](p9.md)
     * [P6](p6.md)
-    * P7
-    * P8
+    * [P7](p7.md)
+    * [P8](p8.md)
 * [Test](test.md)
 
