@@ -2,10 +2,10 @@
 
 ---
 
-* 申彬 141250106
-* 韩梦虞
-* 韩奇
-* 侍硕
+* 141250106 申彬 `PM`
+* 141250042 韩梦虞
+* 141250043 韩奇
+* 141250110 侍硕
 
-    [github地址](https://github.com/NjuRequirement/DocumentMakeMeHappy)
+[github地址](https://github.com/NjuRequirement/DocumentMakeMeHappy)
 
